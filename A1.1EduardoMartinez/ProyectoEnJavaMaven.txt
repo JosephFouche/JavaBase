@@ -1,0 +1,24 @@
+Crear un proyecto en java maven
+
+1-Abre NetBeans IDE.
+
+2-Ve a "Archivo" (File) en la barra de menú y selecciona "Nuevo Proyecto" (New Project).
+
+3-En el cuadro de diálogo "Nuevo Proyecto", selecciona "Java con Maven" (Java with Maven) en la categoría "Proyectos" (Projects).
+
+4-Haz clic en "Siguiente" (Next).
+
+5-Configurar el proyecto:
+
+6-En el campo "Nombre del Proyecto" (Project Name), ingresa el nombre que deseas darle a tu proyecto.
+
+7-En el campo "Grupo de Artefactos" (Group Id), ingresa el identificador del grupo para tu proyecto. Por ejemplo, si tu sitio web es "miempresa.com", el groupId podría ser "com.miempresa".
+
+8-En el campo "ID del Artefacto" (Artifact Id), ingresa el identificador del artefacto. Este es el nombre del archivo JAR que se generará. Por ejemplo, si tu proyecto es una aplicación de gestión de empleados, el artifactId podría ser "gestion-empleados".
+
+9-Haz clic en "Finalizar" (Finish) para crear el proyecto.
+
+
+Diferencia entre un proyecto en un IDE nativo y java MAVEN
+
+Mientras que un proyecto Java nativo en un IDE te da más control sobre la estructura y configuración del proyecto, también puede requerir más esfuerzo en la gestión de dependencias y versiones. Por otro lado, Java Maven proporciona una estructura bien definida, una gestión sencilla de dependencias y un enfoque estandarizado que facilita el desarrollo y mantenimiento de proyectos Java
